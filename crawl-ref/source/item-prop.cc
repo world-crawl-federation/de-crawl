@@ -1031,7 +1031,7 @@ static bool _is_affordable(const item_def &item)
 //
 bool item_ident(const item_def &item, iflags_t flags)
 {
-    return (item.flags & flags) == flags;
+    return true;
 }
 
 void set_ident_flags(item_def &item, iflags_t flags)
