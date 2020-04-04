@@ -1,5 +1,5 @@
 Remove
-	Confusing Touch
+X	Confusing Touch
 	Identification
 	Launcher ammo
 	Wands (Digging, Enslave, Flame, Paralysis, Polymorph)
