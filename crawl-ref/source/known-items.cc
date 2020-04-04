@@ -367,7 +367,7 @@ void check_item_knowledge(bool unknown_items)
         {
             { OBJ_BOOKS, BOOK_MANUAL },
             { OBJ_GOLD, 1 },
-            { OBJ_BOOKS, NUM_BOOKS },
+            { OBJ_BOOKS, MAX_FIXED_BOOK },
             { OBJ_RUNES, NUM_RUNE_TYPES },
         };
         for (auto e : misc_list)

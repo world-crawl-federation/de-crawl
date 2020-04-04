@@ -10,3 +10,6 @@ X	Confusing Touch
 	Evo (Beasts, Crystal ball, fan of gales)
 	Riposte
 	Ally commands
+
+Fix
+	Autopickup doesn't know we have identified all items
